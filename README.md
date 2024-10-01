@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**This project aims to shade light on the sales of bike in a bike store around 3 regions (Pacific, Europe, North America).** 
+**This project aims to shed light on the sales of bike in a bike store around 3 regions (Pacific, Europe, North America).** 
 
 ## Data Overview
 
@@ -50,6 +50,15 @@
 
 ## The visualization shows that the distance to customer's place of work affects the purchase of bike. We can see that the farther the work place, the lesser they bought bike.
 
-  4. How does the customer's income affects the purchase of bike?
+  4. How does the customer's income affects the purchase of bike on average?
+
+![](https://github.com/StephenTheAnalyst/ExploratoryDataAnalysisTableau/blob/main/Average%20Incomeeee.png)
+
+## In the above visualization, notice how the trend was going upwards until it finally came to the floor at 90k. This shows that when a customer is earning 100k and above, they tend to purchase bike less. Which is understandable.
+
+## Results/Finiding
+ - Click [here](https://public.tableau.com/app/profile/stephen.ajewole/viz/VisualizationonBikePurchase/IncomeVsBikePurchase) to view the whole project.
+
+## Thanks ✌😊
 
  
