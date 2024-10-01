@@ -57,7 +57,7 @@
 ## In the above visualization, notice how the trend was going upwards until it finally came to the floor at 90k. This shows that when a customer is earning 100k and above, they tend to purchase bike less. Which is understandable.
 
 ## Results/Finiding
- - Click [here](https://public.tableau.com/app/profile/stephen.ajewole/viz/VisualizationonBikePurchase/IncomeVsBikePurchase) to view the whole project.
+ - Click [here](https://public.tableau.com/views/VisualizationonBikePurchase/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to view the whole project.
 
 ## Thanks ✌😊
 
